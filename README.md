@@ -20,7 +20,7 @@
 
 # 기능 화면
 -게임모드선택
-![image](https://github.com/user-attachments/assets/3adb7d05-e0b4-4bf9-92f1-00f37c3a277d){: width="200" height="100"}
+![image](https://github.com/user-attachments/assets/07b4ade5-5773-48b5-b5a0-9f6c5dfb17d8){: width="200" height="100"}
 
 
 -2인모드
