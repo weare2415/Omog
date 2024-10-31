@@ -19,11 +19,15 @@
 ![image](https://github.com/user-attachments/assets/dccca785-dfa8-4462-8596-0ff0af27bcae)
 
 # 기능 화면
+-게임모드선택
+![image](https://github.com/user-attachments/assets/3adb7d05-e0b4-4bf9-92f1-00f37c3a277d){: width="200" height="100"}
+
+
 -2인모드
-![image](https://github.com/user-attachments/assets/e190713d-4e1a-4077-b11f-ad838de093f7)
+![image](https://github.com/user-attachments/assets/e190713d-4e1a-4077-b11f-ad838de093f7) {: width="200" height="100"}
 
 
 
 -3인모드
-![image](https://github.com/user-attachments/assets/66c831fb-440a-4a58-85fd-4f4ccbfd02c1)
+![image](https://github.com/user-attachments/assets/66c831fb-440a-4a58-85fd-4f4ccbfd02c1){: width="200" height="100"}
 
