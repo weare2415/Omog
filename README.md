@@ -21,6 +21,9 @@
 # 기능 화면
 -2인모드
 ![image](https://github.com/user-attachments/assets/e190713d-4e1a-4077-b11f-ad838de093f7)
+
+
+
 -3인모드
 ![image](https://github.com/user-attachments/assets/66c831fb-440a-4a58-85fd-4f4ccbfd02c1)
 
